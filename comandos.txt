@@ -1,0 +1,244 @@
+    1  clear
+    2  sudo gpasswd -a oscar wheel
+    3  clear
+    4  exit
+    5  clear
+    6  timedatectl
+    7  exit
+    8  cls
+    9  clear
+   10  timedatectl set-timezone America/Mexico_City
+   11  sudo su -
+   12  exit
+   13  cd ..
+   14  clear
+   15  exit
+   16  clear
+   17  exit
+   18  cd ..
+   19  cd ~
+   20  clear
+   21  wget --no-cookies --no-check-certificate --header "Cookie: gpw_e24=http%3A%2F%2Fwww.oracle.com%2F; oraclelicense=accept-securebackup-cookie" "http://download.oracle.com/otn-pub/java/jdk/8u181-b13/96a7b8442fe848ef90c96a2fad6ed6d1/jdk-8u181-linux-x64.rpm"
+   22  clear
+   23  sudo su -
+   24  clear
+   25  ls
+   26  ll
+   27  sudo su -
+   28  clear
+   29  hostnamectl
+   30  sudo mono helloworl.jar
+   31  clear
+   32  java
+   33  java version
+   34  java -version
+   35  clear
+   36  ls
+   37  ll
+   38  clear
+   39  sudo nano /etc/ssh/sshd_config
+   40  clear
+   41  sudo su -
+   42  exit
+   43  clear
+   44  ll
+   45  sudo su -
+   46  exit
+   47  cd ..
+   48  clear
+   49  cd ~/
+   50  clear
+   51  varant gobal-status
+   52  vagrant global-status
+   53  vagrant
+   54  ll
+   55  exit
+   56  vagrant
+   57  clear
+   58  exit
+   59  cd ..
+   60  clear
+   61  cd ~/
+   62  clear
+   63  env
+   64  echo $JAVA_HOME
+   65  java
+   66  clear
+   67  whereis java
+   68  echo $JAVA_HOME
+   69  env
+   70  whereis java
+   71  cd \usr\java
+   72  cd \usr
+   73  cd \usr
+   74  ll
+   75  clear
+   76  cd \usr
+   77  cd \usr\
+   78  clear
+   79  sudo su -
+   80  cler
+   81  clear
+   82  sudo ls
+   83  clear
+   84  sudo ls
+   85  sudo /etc/ssh/sshd_config
+   86  sudo nano /etc/ssh/sshd_config
+   87  clear
+   88  systemctl restart sshd.service
+   89  clear
+   90  sudo passwd
+   91  wget
+   92  cd /usr/local/src
+   93  ls
+   94  clear
+   95  ll
+   96  pw
+   97  pw
+   98  pwd
+   99  sudo yum install-utils -y
+  100  sudo yum install yum-utils -y
+  101  sudo yum groupinstall "Development Tools" -y
+  102  clear
+  103  wget http://www-eu.apache.org/dist/maven/maven-3/3.5.4/binaries/apache-maven-3.5.4-bin.tar.gz
+  104  sudo su -
+  105  exit
+  106  clear
+  107  mvn --version
+  108  history
+  109  paython -version
+  110  python -version
+  111  cd ~/
+  112  clear
+  113  ll
+  114  ls
+  115  clear
+  116  ll
+  117  clear
+  118  cd /usr/local/src/
+  119  sudo wget https://www.python.org/ftp/python/3.7.0/Python-3.7.0.tgz 
+  120  tar xvzf Python-3.7.0.tgz
+  121  sudo tar xvzf Python-3.7.0.tgz
+  122  pwd
+  123  cd Python-370
+  124  cd Python-3.7.0/
+  125  ls
+  126  cad README.rst
+  127  cat README.rst
+  128  sudo ./configure
+  129  sudo make
+  130  pwd
+  131  make install
+  132  sudo make install
+  133  python --version
+  134  clear
+  135  python --version
+  136  clear
+  137  cd ~/
+  138  clear
+  139  ls
+  140  ll
+  141  sudo nano helloworld.java
+  142  clear
+  143  ll
+  144  sudo nano helloworld.java
+  145  clear
+  146  javac helloworld.java
+  147  sudo nano helloworld.java
+  148  sudo cat helloworld.java
+  149  javac helloworld.java
+  150  sudo nano helloworld.java
+  151  clear
+  152  javac helloworld.java
+  153  java version
+  154  java --version
+  155  java -version
+  156  mvn --version
+  157  java -version
+  158  clear
+  159  python --version
+  160  ll
+  161  sudo nano helloworld.java
+  162  javac helloworld.java
+  163  java helloworld
+  164  mvn --version
+  165  python --version
+  166  pip3.6 --version
+  167  pwd
+  168  susdo visudo
+  169  sudo visudo
+  170  clear
+  171  sudo usermod -G oscar
+  172  exit
+  173  sudo  user -G oscar
+  174  sudo  usermod -G oscar
+  175  sudo usermod -G oscar
+  176  exit
+  177  cd ~/
+  178  exit
+  179  sudo visudo
+  180  exit
+  181  sudo ls
+  182  clear
+  183  cd ~/
+  184  clear
+  185  sudo usermod -G root oscar
+  186  sudo usermod -G wheel oscar
+  187  sudo su -
+  188  clear
+  189  exit
+  190  nano /etc/mot
+  191  yum instaall git -y
+  192  nano yum instaall git -y
+  193  git config --global user.mail omellado "omellado9@gmail.com"
+  194  sudo git config --global user.mail omellado "omellado9@gmail.com"
+  195  cd ~/
+  196  sudo git config --global user.mail omellado "omellado9@gmail.com"
+  197  mkdir pruebas
+  198  cat /etc/m
+  199  get init
+  200  git init
+  201  cd pruebas
+  202  ls
+  203  ll
+  204  clear
+  205  ll
+  206  clear
+  207  path
+  208  echo path
+  209  cat "Las hojas muertas..." > prueba.txt
+  210  cat "Las hojas muertas..." >> prueba.txt
+  211  more "Las hojas muertas..." >> prueba.txt
+  212  echo $JAVA_HOME > prueba.txt
+  213  ls
+  214  cat pruebas.txt
+  215  echo "# pruebas" >> README.md
+  216  git init
+  217  git add README.md
+  218  git commit -m "first commit"
+  219  git remote add origin https://github.com/omellado/pruebas.git
+  220  git push -u origin master
+  221  ll
+  222  echo "# pruebas" >> README.md
+  223  ll
+  224  clear
+  225  git init
+  226  git add README.md
+  227  git commit -m "first commit"
+  228  git config --global user.email "omellado9@gmail.com" 
+  229  git config --global user.name "omellado" 
+  230  git init
+  231  git add README.md
+  232  git commit -m "first commit"
+  233  git remote add origin https://github.com/omellado/pruebas.git
+  234  git remote -v
+  235  git commit -m "first commit"
+  236  git add --all
+  237  git commit -m "first commit"
+  238  git push -u origin master
+  239  git brach -a 
+  240  git branch -a 
+  241  git checkout -b comandos
+  242  history >> comados.txt
+  243  git add comandos.txt
+  244  history >> comandos.txt
